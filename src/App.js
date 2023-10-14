@@ -114,7 +114,7 @@ function App() {
       )}
       <div className="mainWrap">
         <div className="generator">
-          <h2 className="generator__title">Password Generator</h2>
+          <h2 className="generator__title">Password Generators</h2>
           <h4 className="password">{password}</h4>
           {/* password state value will be show here */}
         </div>
